@@ -9,6 +9,21 @@ This project analyses the **UK Road Accident dataset** to uncover patterns and f
 The goal of the project is to demonstrate how **data analysis and predictive modelling** can help support better road safety decisions.
 
 ---
+## Sample Insights
+
+### Accident Distribution by Road Type
+<img width="500" height="400" alt="Accidents by Road Type" src="https://github.com/user-attachments/assets/2c8d0fa1-42b6-4051-a945-5dbe5ae96b96" />
+
+
+### Accidents by Weather Condition
+<img width="500" height="400" alt="Accidents by Weather Condition" src="https://github.com/user-attachments/assets/f9e0f9dd-791a-4d57-96e7-b9b0b86aceb1" />
+
+
+### Accident Trends Over Casualities
+<img width="500" height="400" alt="Accidents by No of Casualities" src="https://github.com/user-attachments/assets/dd729295-bc25-4bc8-bba0-1a9424de4926" />
+
+
+---
 
 ## Technologies Used
 
