@@ -153,11 +153,3 @@ Potential future enhancements include:
 * Testing additional machine learning models
 * Developing accident risk prediction systems for policy planning
 
----
-
-## Author
-
-Purvi Dawda
-
-MSc in Artificial Intelligence
-
