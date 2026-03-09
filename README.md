@@ -52,16 +52,16 @@ This dataset is commonly used for **transport safety analysis and predictive mod
 
 ## Project Workflow
 
-Raw Accident Data
-↓
-Data Cleaning & Preprocessing
-↓
-Feature Selection & Data Preparation
-↓
-Exploratory Data Analysis
-↓
-Machine Learning Model Development
-↓
+Raw Accident Data\
+            ↓\
+Data Cleaning & Preprocessing\
+            ↓\
+Feature Selection & Data Preparation\
+            ↓\
+Exploratory Data Analysis\
+            ↓\
+Machine Learning Model Development\
+            ↓\
 Accident Pattern Insights
 
 ---
