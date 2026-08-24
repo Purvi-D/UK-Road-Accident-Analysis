@@ -1,5 +1,7 @@
 # UK Road Accident Analysis using PySpark & Machine Learning
 
+> 🎯 Processed 1.8 million UK road accident records with PySpark to uncover the conditions most linked to accident severity, combining big data processing with machine learning to support road safety decision-making.
+
 ## Project Overview
 
 Road accidents are a significant public safety concern in the United Kingdom. Government authorities and transport agencies rely on accident data to identify high-risk conditions and implement preventive measures.
